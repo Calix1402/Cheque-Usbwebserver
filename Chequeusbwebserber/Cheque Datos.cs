@@ -10,19 +10,17 @@ using System.Windows.Forms;
 
 namespace Chequeusbwebserber
 {
-    public partial class Form1 : Form
+    public partial class Cheque10 : Form
     {
-        public Form1()
+        public Cheque10()
         {
             InitializeComponent();
         }
 
-        private void label5_Click(object sender, EventArgs e)
-        {
-           
-        }
+      
+        
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Cheque10_Load_1(object sender, EventArgs e)
         {
             Cheque Cheque1 = new Cheque();
             Cheque1._Chequeid = 1;
@@ -34,23 +32,17 @@ namespace Chequeusbwebserber
             lstchequeInfo.Items.Add(Cheque1.getchequeInfo());
         }
 
-        private void btnAdd_Click(object sender, EventArgs e)
+        private void btnAgregar_Click(object sender, EventArgs e)
         {
             Cheque Cheque1 = new Cheque();
 
-            Cheque1._Chequeid = Convert.ToInt32(textcheque.Text);
-            Cheque1._Banco = textbanco.Text;
-            Cheque1._Usuario = textusuario.Text;
-            Cheque1._Dinero = textdinero.Text;
-            Cheque1._Firma = textfirma.Text;
+            Cheque1._Chequeid = Convert.ToInt32(textCheque.Text);
+            Cheque1._Banco = textBank.Text;
+            Cheque1._Usuario = textUsername.Text;
+            Cheque1._Dinero = textMoney.Text;
+            Cheque1._Firma = textFirm.Text;
 
-            lstchequeInfo.Items.Add(Cheque1.getchequeInfo());
-        }
-
-        private void btncerrar_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-
+            lstchequeInfo .Items.Add(Cheque1.getchequeInfo ());
         }
     }
 }

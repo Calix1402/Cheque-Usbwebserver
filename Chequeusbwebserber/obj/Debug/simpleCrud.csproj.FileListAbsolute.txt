@@ -26,12 +26,12 @@ C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbweb
 C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\bin\Debug\System.Memory.xml
 C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\Chequeusbwebserber.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\simpleCrud.csproj.AssemblyReference.cache
 C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\Chequeusbwebserber.FmrMenu.resources
 C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\Chequeusbwebserber.FmrTest.resources
+C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\Chequeusbwebserber.Form2.resources
 C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\Chequeusbwebserber.Properties.Resources.resources
-C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\Chequeusbwebserber.csproj.GenerateResource.cache
-C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\Chequeusbwebserber.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\simpleCrud.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\simpleCrud.csproj.CoreCompileInputs.cache
 C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\Chequeusbwebserber.exe
 C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\Chequeusbwebserber.pdb
-C:\Users\alexi\OneDrive\Escritorio\archivos de Formacion Tranversal\Chequeusbwebserber\Chequeusbwebserber\obj\Debug\Chequeusbwebserber.Form2.resources

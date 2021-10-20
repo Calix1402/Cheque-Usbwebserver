@@ -33,7 +33,7 @@ namespace Chequeusbwebserber
 
         private void chequeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form1 Fmr = new Form1();
+            Form2 Fmr = new Form2();
             Fmr.MdiParent = this;
             Fmr.Show();
 
